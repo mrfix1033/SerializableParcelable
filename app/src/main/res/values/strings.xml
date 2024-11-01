@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SerializableParcelable</string>
+    <string name="password">Password</string>
+    <string name="person_name">Имя: %s</string>
+    <string name="person_surname">Фамилия: %s</string>
+    <string name="person_address">Адрес: %s</string>
+    <string name="person_phone_number">Телефон: %s</string>
+    <string name="undefined"><![CDATA[<не установлено>]]></string>
+    <string name="remove">Удалить</string>
+    <string name="back">Назад</string>
+    <string name="phone_number">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="address">Адрес</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+</resources>
